@@ -1,15 +1,12 @@
-## Welcome to My Homepage!
+## Linzhi Wu
 
-You can use the [editor on GitHub](https://github.com/ncuwlz/ncuwlz.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 研究方向：
+自然语言处理
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 教育背景
+- 2019.09 -- 2022.07  天津大学
+- 2015.09 -- 2019.07  南昌大学软件学院 软件工程学士学位
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
