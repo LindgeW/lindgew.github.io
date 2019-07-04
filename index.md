@@ -1,4 +1,7 @@
 ## Linzhi Wu
+ncu151wlz@qq.com
+![](/imgs/myself.jpg)
+[english](https://www.baidu.com/)
 
 ### 研究方向：
 深度学习、自然语言处理
@@ -6,7 +9,7 @@
 ---
 
 ### 教育背景
-- 2019.09 -- 2022.07  天津大学
+- 2019.09 -- 2022.07  天津大学新媒体学院 软件工程硕士学位
 - 2015.09 -- 2019.07  南昌大学软件学院 软件工程学士学位
 
 ---
@@ -17,13 +20,11 @@
 + 国家励志奖学金
 + 美国大学生数学建模比赛二等奖
 + 软件杯三等奖
-+ 软件设计师资质
++ 软件设计师
 
 ---
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
