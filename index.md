@@ -12,7 +12,7 @@ Contact: ncu151wlz@qq.com
 
 ### NLP代码
 - [sentiment analysis](https://github.com/ncuwlz/sentiment-analysis-based-on-attention): 情感分析/文本分类
-- [part-of-speech tagging](https://github.com/ncuwlz/POS-Tagging): 词性标注任务
+- [pos tagging](https://github.com/ncuwlz/POS-Tagging): 词性标注任务
 
 ---
 
@@ -33,5 +33,5 @@ Contact: ncu151wlz@qq.com
 ---
 
 ### 格言
-*凡事三分靠悟性，七分靠打拼！*
-
+*1. 凡事三分靠悟性，七分靠打拼！*
+*2. 学无止境*
