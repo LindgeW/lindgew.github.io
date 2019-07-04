@@ -10,6 +10,12 @@ Contact: ncu151wlz@qq.com
 
 ---
 
+### NLP代码
+- [sentiment analysis](https://github.com/ncuwlz/sentiment-analysis-based-on-attention): 情感分析/文本分类
+- [part-of-speech tagging](https://github.com/ncuwlz/POS-Tagging): 词性标注任务
+
+---
+
 ### 教育背景
 - 2019.09 -- 2022.07  天津大学新媒体学院 软件工程硕士学位
 - 2015.09 -- 2019.07  南昌大学软件学院 软件工程学士学位
