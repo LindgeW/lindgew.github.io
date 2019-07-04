@@ -1,7 +1,8 @@
-## Linzhi Wu
-ncu151wlz@qq.com
+## Linzhi Wu  
+[English](https://www.baidu.com/)
+Contact: ncu151wlz@qq.com
 ![](/imgs/myself.jpg)
-[english](https://www.baidu.com/)
+
 
 ### 研究方向：
 深度学习、自然语言处理
@@ -24,6 +25,8 @@ ncu151wlz@qq.com
 
 ---
 
+### 格言
+*凡事三分靠悟性，七分靠打拼！*
 
 ```
 
