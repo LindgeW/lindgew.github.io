@@ -1,7 +1,9 @@
 ## Linzhi Wu  
 [English](https://www.baidu.com/)
+
 Contact: ncu151wlz@qq.com
-![](/imgs/myself.jpg)
+
+![](/imgs/myself.jpg =100x)
 
 
 ### 研究方向：
