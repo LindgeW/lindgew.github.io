@@ -3,7 +3,7 @@
 
 <img src="/imgs/myself.jpg" width="100" />
 
-Contact: ncu151wlz@qq.com
+Contact me: ncu151wlz@qq.com
 
 ### Research Interests：
 Deep Learning, Natural Language Processing
