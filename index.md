@@ -1,4 +1,4 @@
-[English](https://www.baidu.com/)
+[English](/index-en.html)
 ## Linzhi Wu  
 
 <img src="/imgs/myself.jpg" width="100" />
