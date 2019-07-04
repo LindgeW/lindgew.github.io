@@ -3,7 +3,7 @@
 
 Contact: ncu151wlz@qq.com
 
-<img src="/imgs/myself.jpg" width=100/>
+<img src="/imgs/myself.jpg" width="100" />
 
 
 ### 研究方向：
