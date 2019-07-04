@@ -3,7 +3,7 @@
 
 <img src="/imgs/myself.jpg" width="100" />
 
-Contact: ncu151wlz@qq.com
+邮箱: ncu151wlz@qq.com
 
 ### 研究方向：
 深度学习、自然语言处理
