@@ -17,7 +17,7 @@
 ---
 
 ### 文章
-- [Variant loss function to fix sample-imbalanced problems](https://github.com/ncuwlz/ideas/Variant loss function to fix sample-imbalanced problems.pdf): 讨论深度学习中样本不均衡问题优化交叉熵损失函数解决方案
+- [变体交叉熵损失函数解决样本不均衡问题](https://github.com/ncuwlz/ideas/Variant loss function to fix sample-imbalanced problems.pdf): 讨论深度学习中样本不均衡问题优化交叉熵损失函数解决方案
 
 ---
 
