@@ -16,6 +16,11 @@
 
 ---
 
+### 文章
+- [Variant loss function to fix sample-imbalanced problems](https://github.com/ncuwlz/ideas/Variant loss function to fix sample-imbalanced problems.pdf): 讨论深度学习中样本不均衡问题优化交叉熵损失函数解决方案
+
+---
+
 ### 教育背景
 - 2019.09 -- 2022.07  天津大学新媒体学院 软件工程硕士学位
 - 2015.09 -- 2019.07  南昌大学软件学院 软件工程学士学位
