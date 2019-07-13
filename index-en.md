@@ -16,6 +16,11 @@ Deep Learning, Natural Language Processing
 
 ---
 
+### Articles
+[Variant loss function to fix sample-unbalanced problems](./ideas/variant-loss-function.pdf): Mainly discuss applying improved cross entropy loss function to solve the problem of sample imbalance in deep learning.
+
+---
+
 ### Education Experience
 - 2019.09 -- 2022.07  Tianjin University, Software Engineering, Master Degree.
 - 2015.09 -- 2019.07  Nanchang University, Software Engineering, Bachelor Degree.
