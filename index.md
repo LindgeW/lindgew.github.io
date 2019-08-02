@@ -11,8 +11,9 @@
 ---
 
 ### NLP代码
-- [sentiment analysis](https://github.com/ncuwlz/sentiment-analysis-based-on-attention): 情感分析/文本分类
-- [pos tagging](https://github.com/ncuwlz/POS-Tagging): 词性标注任务
+- [Sentiment Analysis](https://github.com/ncuwlz/sentiment-analysis-based-on-attention): 情感分析/文本分类
+- [POS Tagging](https://github.com/ncuwlz/POS-Tagging): 词性标注任务
+- [NER](https://github.com/ncuwlz/NER): 命名实体识别任务
 
 ---
 
