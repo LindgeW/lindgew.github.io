@@ -11,9 +11,11 @@ Deep Learning, Natural Language Processing
 ---
 
 ### NLP Demo
-- [sentiment analysis](https://github.com/ncuwlz/sentiment-analysis-based-on-attention): text classification demo
-- [pos tagging](https://github.com/ncuwlz/POS-Tagging): parts of speech tagging demo
-
++ [Sentiment Analysis](https://github.com/ncuwlz/sentiment-analysis-based-on-attention): text classification demo
+    + [LSTM version](https://github.com/ncuwlz/Text-Classification)
+    + [Transformer version](https://github.com/ncuwlz/transformer_textclassification)
++ [POS Tagging](https://github.com/ncuwlz/POS-Tagging): part-of-speech tagging demo
++ [NER](https://github.com/ncuwlz/NER): named entity recognition damo
 ---
 
 ### Articles
