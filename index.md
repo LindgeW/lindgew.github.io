@@ -11,11 +11,11 @@
 ---
 
 ### NLP代码
-> [Sentiment Analysis](https://github.com/ncuwlz/sentiment-analysis-based-on-attention): 情感分析/文本分类
->> [LSTM version](https://github.com/ncuwlz/Text-Classification)
->> [Transformer version](https://github.com/ncuwlz/transformer_textclassification)
-> [POS Tagging](https://github.com/ncuwlz/POS-Tagging): 词性标注任务
-> [NER](https://github.com/ncuwlz/NER): 命名实体识别任务
++ [Sentiment Analysis](https://github.com/ncuwlz/sentiment-analysis-based-on-attention): 情感分析/文本分类
+++ [LSTM version](https://github.com/ncuwlz/Text-Classification)
+++ [Transformer version](https://github.com/ncuwlz/transformer_textclassification)
++ [POS Tagging](https://github.com/ncuwlz/POS-Tagging): 词性标注任务
++ [NER](https://github.com/ncuwlz/NER): 命名实体识别任务
 
 ---
 
