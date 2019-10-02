@@ -19,6 +19,12 @@
 
 ---
 
+### 数据平台
++ [情感分析平台](https://github.com/tjuwlz/sentiment-analysis-platform)
++ [标注平台](https://github.com/tjuwlz/LabelingPlatform)
+
+---
+
 ### 文章
 - [变体交叉熵损失函数解决样本不均衡问题](./ideas/variant-loss-function.pdf): 讨论采用优化交叉熵损失函数来解决深度学习中样本不均衡问题
 
