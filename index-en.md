@@ -16,6 +16,7 @@ Deep Learning, Natural Language Processing
     + [Transformer version](https://github.com/ncuwlz/transformer_for_textclassification)
 + [POS Tagging](https://github.com/ncuwlz/POS-Tagging): part-of-speech tagging demo
 + [NER](https://github.com/ncuwlz/NER): named entity recognition demo
++ [Machine Translation](https://github.com/tjuwlz/MachineTranslation): machine translation demo
 
 ---
 
