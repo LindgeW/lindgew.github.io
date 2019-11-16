@@ -17,7 +17,7 @@ Deep Learning, Natural Language Processing
 + [POS Tagging](https://github.com/ncuwlz/POS-Tagging): part-of-speech tagging demo
 + [NER](https://github.com/ncuwlz/NER): named entity recognition demo
 + [Machine Translation](https://github.com/tjuwlz/MachineTranslation): machine translation demo
-
++ [Graph-based Dependency Parsing](https://github.com/tjuwlz/BiaffineParser): dependency parsing demo
 ---
 
 ### Data Platform
