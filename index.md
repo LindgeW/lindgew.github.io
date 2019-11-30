@@ -11,8 +11,19 @@
 ---
 
 ### NLP代码
-- [sentiment analysis](https://github.com/ncuwlz/sentiment-analysis-based-on-attention): 情感分析/文本分类
-- [pos tagging](https://github.com/ncuwlz/POS-Tagging): 词性标注任务
++ [Sentiment Analysis](https://github.com/ncuwlz/sentiment-analysis-based-on-attention): 情感分析/文本分类
+    + [LSTM version](https://github.com/ncuwlz/Text-Classification)
+    + [Transformer version](https://github.com/ncuwlz/transformer_for_textclassification)
++ [POS Tagging](https://github.com/ncuwlz/POS-Tagging): 词性标注
++ [NER](https://github.com/ncuwlz/NER): 命名实体识别
++ [Machine Translation](https://github.com/tjuwlz/MachineTranslation): 机器翻译
++ [Graph-based Dependency Parsing](https://github.com/tjuwlz/BiaffineParser)：依存分析
+
+---
+
+### 数据平台
++ [情感分析平台](https://github.com/tjuwlz/sentiment-analysis-platform)
++ [标注平台](https://github.com/tjuwlz/LabelingPlatform)
 
 ---
 
@@ -22,7 +33,7 @@
 ---
 
 ### 教育背景
-- 2019.09 -- 2022.07  天津大学新媒体学院 软件工程硕士学位
+- 2019.09 -- 2022.07  天津大学软件学院 软件工程硕士学位
 - 2015.09 -- 2019.07  南昌大学软件学院 软件工程学士学位
 
 ---
@@ -33,7 +44,7 @@
 + 国家励志奖学金
 + 美国大学生数学建模比赛二等奖
 + 软件杯三等奖
-+ 软中
++ 软设
 
 ---
 
