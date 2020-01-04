@@ -30,6 +30,7 @@
 ### 文章
 - [变体交叉熵损失函数解决样本不均衡问题](./ideas/variant-loss-function.pdf): 讨论采用优化交叉熵损失函数来解决深度学习中样本不均衡问题
 - [依存句法分析联合模型调研报告](./ideas/joint_model.pdf)
+- [Attention模型中序列的方向信息和位置信息编码](./ideas/direction and position in attention model.pdf)
 
 ---
 
