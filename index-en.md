@@ -3,7 +3,7 @@
 
 <img src="/imgs/myself.jpg" width="100" />
 
-Contact me: ncu151wlz@qq.com
+Contact me: tjuwlz2020@163.com
 
 ### Research Interests：
 Deep Learning, Natural Language Processing
@@ -34,7 +34,7 @@ Deep Learning, Natural Language Processing
 ---
 
 ### Education Experience
-- 2019.09 -- 2022.07  Tianjin University, Software Engineering, Master Degree.
+- 2019.09 -- 2022.07  Tianjin University, Software Engineering, Master Degree.  (supervisor: [Meishan Zhang](https://zhangmeishan.github.io))
 - 2015.09 -- 2019.07  Nanchang University, Software Engineering, Bachelor Degree.
 
 ---
