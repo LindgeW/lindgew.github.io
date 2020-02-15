@@ -34,7 +34,7 @@ Deep Learning, Natural Language Processing
 ---
 
 ### Education Experience
-- 2019.09 -- 2022.07  Tianjin University, Software Engineering, Master Degree.  (supervisor: [Meishan Zhang](https://zhangmeishan.github.io))
+- 2019.09 -- 2022.07  Tianjin University, Software Engineering, Master Degree.  (Supervisor: [Meishan Zhang](https://zhangmeishan.github.io))
 - 2015.09 -- 2019.07  Nanchang University, Software Engineering, Bachelor Degree.
 
 ---
