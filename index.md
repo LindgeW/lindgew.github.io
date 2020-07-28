@@ -16,6 +16,7 @@
     + [Transformer version](https://github.com/ncuwlz/transformer_for_textclassification)
 + [POS Tagging](https://github.com/ncuwlz/POS-Tagging): 词性标注
 + [NER](https://github.com/ncuwlz/NER): 命名实体识别
++ [Text Matching](https://github.com/LindgeW/VariantNets-TextMatching): 文本匹配
 + [Machine Translation](https://github.com/tjuwlz/MachineTranslation): 机器翻译
 + [Graph-based Dependency Parsing](https://github.com/tjuwlz/BiaffineParser)：依存分析
 
