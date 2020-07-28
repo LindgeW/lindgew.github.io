@@ -11,13 +11,14 @@ Deep Learning, Natural Language Processing
 ---
 
 ### NLP Demo
-+ [Sentiment Analysis](https://github.com/ncuwlz/sentiment-analysis-based-on-attention): text classification demo
++ [Sentiment Analysis](https://github.com/ncuwlz/sentiment-analysis-based-on-attention)
     + [LSTM version](https://github.com/ncuwlz/Text-Classification)
     + [Transformer version](https://github.com/ncuwlz/transformer_for_textclassification)
-+ [POS Tagging](https://github.com/ncuwlz/POS-Tagging): part-of-speech tagging demo
-+ [NER](https://github.com/ncuwlz/NER): named entity recognition demo
-+ [Machine Translation](https://github.com/tjuwlz/MachineTranslation): machine translation demo
-+ [Graph-based Dependency Parsing](https://github.com/tjuwlz/BiaffineParser): dependency parsing demo
++ [POS Tagging](https://github.com/ncuwlz/POS-Tagging)
++ [NER](https://github.com/ncuwlz/NER)
++ [Text Matching](https://github.com/LindgeW/VariantNets-TextMatching)
++ [Machine Translation](https://github.com/tjuwlz/MachineTranslation)
++ [Graph-based Dependency Parsing](https://github.com/tjuwlz/BiaffineParser)
 
 ---
 
