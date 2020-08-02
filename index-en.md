@@ -31,6 +31,8 @@ Deep Learning, Natural Language Processing
 ### Articles
 - [Variant loss function to fix sample-unbalanced problems](./ideas/variant-loss-function.pdf): Mainly discuss applying improved cross entropy loss function to solve the problem of sample imbalance in deep learning.
 - [A research report on dependency parsing joint model](./ideas/joint_model.pdf)
+- [A report about Graph Neural Network](./ideas/GNN-report.pdf)
+- [A survey about GNN-based sentiment analysis in NLP](./ideas/GNN-survey.pdf)
 
 ---
 
