@@ -1,7 +1,6 @@
 [English](/index-en.html) 
 
 <img src="/imgs/myself.jpg" width="100" />
-
 <strong> Linzhi Wu </strong>
 
 邮箱: tjuwlz2020@163.com
