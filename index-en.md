@@ -1,8 +1,8 @@
 [Chinese](/index.html)
-## Linzhi Wu  
 
 <img src="/imgs/myself.jpg" width="100" />
 
+## Linzhi Wu
 Contact me: tjuwlz2020@163.com
 
 ### Research Interests：
