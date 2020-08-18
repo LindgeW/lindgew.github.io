@@ -19,7 +19,7 @@ Deep Learning, Natural Language Processing
 + [NER](https://github.com/ncuwlz/NER)
 + [Text Matching](https://github.com/LindgeW/VariantNets-TextMatching)
 + [Machine Translation](https://github.com/tjuwlz/MachineTranslation)
-+ [Graph-based Dependency Parsing](https://github.com/tjuwlz/BiaffineParser)
++ [Dependency Parsing](https://github.com/tjuwlz/BiaffineParser)
 
 ---
 
