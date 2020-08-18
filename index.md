@@ -19,7 +19,7 @@
 + [NER](https://github.com/ncuwlz/NER): 命名实体识别
 + [Text Matching](https://github.com/LindgeW/VariantNets-TextMatching): 文本匹配
 + [Machine Translation](https://github.com/tjuwlz/MachineTranslation): 机器翻译
-+ [Graph-based Dependency Parsing](https://github.com/tjuwlz/BiaffineParser)：依存分析
++ [Dependency Parsing](https://github.com/tjuwlz/BiaffineParser)：依存分析
 
 ---
 
