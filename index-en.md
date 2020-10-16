@@ -45,7 +45,7 @@ Deep Learning, Natural Language Processing
 
 ### Honor
 - Outstanding graduates
-- Special scholarship, first-class scholarship, three good students
+- Merit Student
 - National Inspirational Scholarship
 - Second Prize of American College Students Mathematical Modeling Competition
 - Software Cup Third Prize
