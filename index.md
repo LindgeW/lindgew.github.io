@@ -1,57 +1,55 @@
-[English](/index-en.html)
+[Chinese](/index.html)
 ## Linzhi Wu  
 
 <img src="/imgs/myself.jpg" width="100" />
 
-邮箱: tjuwlz2020@163.com
+Contact me: tjuwlz2020@163.com
 
-### 研究方向：
-深度学习、自然语言处理
+### Research Interests：
+Deep Learning, Natural Language Processing
 
 ---
 
-### NLP代码
-+ [Sentiment Analysis](https://github.com/ncuwlz/sentiment-analysis-based-on-attention): 情感分析/文本分类
+### NLP Demo
++ [Sentiment Analysis](https://github.com/ncuwlz/sentiment-analysis-based-on-attention)
     + [LSTM version](https://github.com/ncuwlz/Text-Classification)
     + [Transformer version](https://github.com/ncuwlz/transformer_for_textclassification)
-+ [POS Tagging](https://github.com/ncuwlz/POS-Tagging): 词性标注
-+ [NER](https://github.com/ncuwlz/NER): 命名实体识别
-+ [Text Matching](https://github.com/LindgeW/VariantNets-TextMatching): 文本匹配
-+ [Machine Translation](https://github.com/tjuwlz/MachineTranslation): 机器翻译
-+ [Graph-based Dependency Parsing](https://github.com/tjuwlz/BiaffineParser)：依存分析
++ [POS Tagging](https://github.com/ncuwlz/POS-Tagging)
++ [NER](https://github.com/ncuwlz/NER)
++ [Text Matching](https://github.com/LindgeW/VariantNets-TextMatching)
++ [Machine Translation](https://github.com/tjuwlz/MachineTranslation)
++ [Graph-based Dependency Parsing](https://github.com/tjuwlz/BiaffineParser)
 
 ---
 
-### 数据平台
-+ [情感分析平台](https://github.com/tjuwlz/sentiment-analysis-platform)
-+ [标注平台](https://github.com/tjuwlz/LabelingPlatform)
+### Data Platform
++ [Sentiment Analysis Platform](https://github.com/tjuwlz/sentiment-analysis-platform)
++ [Labeling Platform](https://github.com/tjuwlz/LabelingPlatform)
 
 ---
 
-### 文章
-- [变体交叉熵损失函数解决样本不均衡问题](./ideas/variant-loss-function.pdf): 讨论采用优化交叉熵损失函数来解决深度学习中样本不均衡问题
-- [依存句法分析联合模型调研报告](./ideas/joint_model.pdf)
-- [Attention模型中序列的方向信息和位置信息编码](./ideas/direction-and-position-in-attention-model.pdf)
+### Articles
+- [Variant loss function to fix sample-unbalanced problems](./ideas/variant-loss-function.pdf): Mainly discuss applying improved cross entropy loss function to solve the problem of sample imbalance in deep learning.
+- [A research report on dependency parsing joint model](./ideas/joint_model.pdf)
 
 ---
 
-### 教育背景
-- 2019.09 -- 2022.07  天津大学软件学院 软件工程硕士学位   (导师：[张梅山](https://zhangmeishan.github.io))
-- 2015.09 -- 2019.07  南昌大学软件学院 软件工程学士学位
+### Education Experience
+- 2019.09 -- 2022.07  Tianjin University, Software Engineering, Master Degree.  (Supervisor: [Meishan Zhang](https://zhangmeishan.github.io))
+- 2015.09 -- 2019.07  Nanchang University, Software Engineering, Bachelor Degree.
 
 ---
 
-### 小荣誉
-+ 优秀毕业生
-+ 特等奖学金、一等奖学金、三好学生
-+ 国家励志奖学金
-+ 美国大学生数学建模比赛二等奖
-+ 软件杯三等奖
-+ 软设
+### Honor
+- Outstanding graduates
+- Special scholarship, first-class scholarship, three good students
+- National Inspirational Scholarship
+- Second Prize of American College Students Mathematical Modeling Competition
+- Software Cup Third Prize
+- Software Designer Qualification
 
 ---
 
-### 格言
-1. *凡事三分靠悟性，七分靠打拼！*
-2. *没有对和错，只有合理与不合理，要批判地接受别人的理论和观点！*
-2. *学无止境*
+### Proverb
+1. *Thirty percent **understanding** and seventy percent **hard-working** for everything.*
+2. *Life-long learning.*
