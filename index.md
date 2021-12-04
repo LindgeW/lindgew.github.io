@@ -1,4 +1,4 @@
-## Linzhi Wu
+## Linzhi Wu  (Postgraduate Student in Tianjin University)
 Contact me: tjuwlz2020@163.com
 
 ### Research Interests
