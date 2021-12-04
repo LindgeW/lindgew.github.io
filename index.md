@@ -10,9 +10,11 @@ Deep Learning, Natural Language Processing
 ---
 
 ### NLP Repos
-+ [Sentiment Analysis](https://github.com/ncuwlz/sentiment-analysis-based-on-attention)
++ [Text Classification](https://github.com/ncuwlz/sentiment-analysis-based-on-attention)
     + [LSTM Based](https://github.com/ncuwlz/Text-Classification)
     + [Transformer Based](https://github.com/ncuwlz/transformer_for_textclassification)
+    + [Adversarial Multi-Task](https://github.com/LindgeW/AT4MTL)
+    + [Text-Level GNN](https://github.com/LindgeW/TextLevelGNN)
 + [POS Tagging](https://github.com/ncuwlz/POS-Tagging)
 + [NER](https://github.com/ncuwlz/NER)
     + [BiaffineNER](https://github.com/LindgeW/BiaffineNER)
