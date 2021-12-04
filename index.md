@@ -48,7 +48,8 @@ Deep Learning, Natural Language Processing
 - 2015/9 -- 2019/7:  Nanchang University, Software Engineering, Bachelor Degree
 
 ### Awards and Honors
-+ CCL2020 shared task: Humor Computation (5/15)
-+ The 7th "China Software Cup" College Student Software Design Competition (Third Prize)
-+ 2018 American Mathematical Contest in Modeling (Honorable Mention)
++ CCL2020 shared task: Humor Computation, 2020 (5/15)
++ The 7th "China Software Cup" College Student Software Design Competition, 2018 (Third Prize)
++ 2018 American Mathematical Contest in Modeling, 2018 (Honorable Mention)
 
+---
