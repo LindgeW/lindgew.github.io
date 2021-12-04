@@ -36,7 +36,7 @@ Deep Learning, Natural Language Processing
 - [Variant Loss Function to Fix Sample Imbalance](./ideas/variant-loss-function.pdf)
 - [Joint Models for Dependency Parsing: A Survey](./ideas/joint_model.pdf)
 - [Position is All You Need in Attention](./ideas/direction-and-position-in-attention-model.pdf)
-- [Cross-lingual Overview](./ideas/cross-lingual.pptx)
+- [Cross-lingual Overview](./ideas/Cross-lingual.pptx)
 - [A Brief Introduction to Graph Neural Network](./ideas/GNN-report.pdf)
 - [A Survey about GNN Based Sentiment Analysis in NLP](./ideas/GNN-survey.pdf)
 
