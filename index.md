@@ -1,7 +1,3 @@
-[Chinese](/index.html)
-
-<img src="/imgs/myself.jpg" width="100" />
-
 <strong> Linzhi Wu </strong>
 
 Contact me: tjuwlz2020@163.com
@@ -11,15 +7,20 @@ Deep Learning, Natural Language Processing
 
 ---
 
-### NLP Demo
+### NLP repos
 + [Sentiment Analysis](https://github.com/ncuwlz/sentiment-analysis-based-on-attention)
-    + [LSTM version](https://github.com/ncuwlz/Text-Classification)
-    + [Transformer version](https://github.com/ncuwlz/transformer_for_textclassification)
+    + [LSTM based](https://github.com/ncuwlz/Text-Classification)
+    + [Transformer based](https://github.com/ncuwlz/transformer_for_textclassification)
 + [POS Tagging](https://github.com/ncuwlz/POS-Tagging)
 + [NER](https://github.com/ncuwlz/NER)
+    + [BiaffineNER](https://github.com/LindgeW/BiaffineNER)
 + [Text Matching](https://github.com/LindgeW/VariantNets-TextMatching)
+    + [Dual-BERT based Text Similarity](https://github.com/LindgeW/DualEncoder4TextSimilarity)
 + [Machine Translation](https://github.com/tjuwlz/MachineTranslation)
 + [Dependency Parsing](https://github.com/tjuwlz/BiaffineParser)
+    + [Semantic Dependency Parsing](https://github.com/LindgeW/SemanticDependencyParsing)
+    + [Joint CWS & POS & DEP](https://github.com/LindgeW/JointCWPDParser)
+    + [Dependency Tree From PLM](https://github.com/LindgeW/PerturbedMasking4DepParsing)
 
 ---
 
@@ -29,11 +30,11 @@ Deep Learning, Natural Language Processing
 
 ---
 
-### Articles
-- [Variant loss function to fix sample-unbalanced problems](./ideas/variant-loss-function.pdf): Mainly discuss applying improved cross entropy loss function to solve the problem of sample imbalance in deep learning.
-- [A research report on dependency parsing joint model](./ideas/joint_model.pdf)
-- [A report about Graph Neural Network](./ideas/GNN-report.pdf)
-- [A survey about GNN-based sentiment analysis in NLP](./ideas/GNN-survey.pdf)
+### Reports
+- [Variant loss function to fix sample-unbalanced problems](./ideas/variant-loss-function.pdf)
+- [Joint models for dependency parsing: a survey](./ideas/joint_model.pdf)
+- [A brief introduction to Graph Neural Network](./ideas/GNN-report.pdf)
+- [A survey about GNN based sentiment analysis in NLP](./ideas/GNN-survey.pdf)
 
 ---
 
@@ -41,18 +42,3 @@ Deep Learning, Natural Language Processing
 - 2019.09 -- 2022.01  Tianjin University, Software Engineering, Master Degree.  (Supervisor: [Meishan Zhang](https://zhangmeishan.github.io))
 - 2015.09 -- 2019.07  Nanchang University, Software Engineering, Bachelor Degree.
 
----
-
-### Honor
-- Outstanding graduates
-- Merit Student
-- National Inspirational Scholarship
-- Second Prize of American College Students Mathematical Modeling Competition
-- Software Cup Third Prize
-- Software Designer Qualification
-
----
-
-### Proverb
-1. *Thirty percent **understanding** and seventy percent **hard-working** for everything.*
-2. *Life-long learning.*
