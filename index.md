@@ -9,7 +9,7 @@ Deep Learning, Natural Language Processing
 
 ---
 
-### NLP repos
+### NLP Repos
 + [Sentiment Analysis](https://github.com/ncuwlz/sentiment-analysis-based-on-attention)
     + [LSTM Based](https://github.com/ncuwlz/Text-Classification)
     + [Transformer Based](https://github.com/ncuwlz/transformer_for_textclassification)
@@ -38,7 +38,7 @@ Deep Learning, Natural Language Processing
 - [Position is All You Need in Attention](./ideas/direction-and-position-in-attention-model.pdf)
 - [Cross-lingual Overview](./ideas/Cross-lingual.pdf)
 - [A Brief Introduction to Graph Neural Network](./ideas/GNN-report.pdf)
-- [A Survey about GNN Based Sentiment Analysis in NLP](./ideas/GNN-survey.pdf)
+- [A Survey about GNN Based Sentiment Analysis](./ideas/GNN-survey.pdf)
 
 ---
 
