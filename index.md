@@ -5,7 +5,7 @@ A Postgraduate Student in Tianjin University
 Contact me: tjuwlz2020@163.com
 
 ### Research Interests
-Deep Learning, Natural Language Processing
+Machine Learning, Natural Language Processing
 
 ---
 
