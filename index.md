@@ -4,6 +4,8 @@ A Postgraduate Student in Tianjin University
 
 Contact me: tjuwlz2020@163.com
 
+<img src='account.jpg' alt='account'>
+
 ### Research Interests
 Machine Learning, Natural Language Processing
 
