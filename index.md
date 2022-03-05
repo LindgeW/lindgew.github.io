@@ -7,7 +7,7 @@ Contact me: tjuwlz2020@163.com
 <img src='account.jpg' alt='account' width="100">
 
 ### Research Interests
-Machine Learning, Natural Language Processing
+Deep Learning, Natural Language Processing
 
 ---
 
