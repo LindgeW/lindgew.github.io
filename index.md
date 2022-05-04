@@ -20,6 +20,7 @@ Deep Learning, Natural Language Processing
 + [POS Tagging](https://github.com/ncuwlz/POS-Tagging)
 + [NER](https://github.com/ncuwlz/NER)
     + [BiaffineNER](https://github.com/LindgeW/BiaffineNER)
+    + [Low-resource NER](https://github.com/LindgeW/MetaAug4NER)
 + [Text Matching](https://github.com/LindgeW/VariantNets-TextMatching)
     + [Dual-BERT Based Text Similarity](https://github.com/LindgeW/DualEncoder4TextSimilarity)
 + [Machine Translation](https://github.com/tjuwlz/MachineTranslation)
