@@ -8,7 +8,7 @@ WeChat Official Account：
 <img src='account.jpg' alt='account' width="100">
 
 ### Research Interests
-Natural Language Processing, Deep Learning
+Biomedical Applications, Natural Language Processing, Deep Learning
 
 ---
 
