@@ -5,7 +5,10 @@ A PhD Student at UESTC
 Contact me: tjuwlz2020@163.com
 
 WeChat Official Account：
+
 <img src='account.jpg' alt='account' width="100">
+
+--- 
 
 ### Research Interests
 Biomedical Applications, Natural Language Processing, Deep Learning
