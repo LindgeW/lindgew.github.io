@@ -4,7 +4,7 @@ A PhD Student at UESTC
 
 Contact me: tjuwlz2020@163.com
 
-WeChat Official Account：
+WeChat Official Account:
 
 <img src='account.jpg' alt='account' width="100">
 
