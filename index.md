@@ -1,9 +1,10 @@
 ## Linzhi Wu  
 
-A Graduate Student in Tianjin University
+A PhD Student at UESTC
 
 Contact me: tjuwlz2020@163.com
 
+WeChat Official Account：
 <img src='account.jpg' alt='account' width="100">
 
 ### Research Interests
@@ -49,7 +50,7 @@ Natural Language Processing, Deep Learning
 ---
 
 ### Education / Experience
-- 2022/9 -- : University of Electronic Science and Technology of China, Ph.D
+- 2022/9 -- &nbsp;: University of Electronic Science and Technology of China, PhD
 - 2020/11 -- 2021/9: Intern at Alibaba DAMO Academy, Hangzhou
 - 2019/9 -- 2022/3:  Tianjin University, Software Engineering, Master Degree (Supervisor: [Meishan Zhang](https://zhangmeishan.github.io))
 - 2015/9 -- 2019/6:  Nanchang University, Software Engineering, Bachelor Degree
