@@ -11,7 +11,7 @@ WeChat Official Account:
 --- 
 
 ### Research Interests
-Biomedical Applications, Natural Language Processing, Deep Learning
+LipReading, Natural Language Processing, Deep Learning
 
 ---
 
