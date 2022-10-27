@@ -60,10 +60,10 @@ LipReading, Natural Language Processing, Deep Learning
 
 --- 
 
-<div style="display:none">
+<!--
 ### Awards and Honors
 + CCL2020 shared task: Humor Computation, 2020 (5/15)
 + The 7th "China Software Cup" College Student Software Design Competition, 2018 (Third Prize)
 + 2018 American Mathematical Contest in Modeling, 2018 (Honorable Mention)
-<div>
+-->
 
