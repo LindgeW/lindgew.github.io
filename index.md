@@ -6,14 +6,18 @@ Contact me: tjuwlz2020@163.com
 
 WeChat Official Account:
 
-<img src='account.jpg' alt='account' width="100">
+<img src='account.jpg' alt='account' width="80">
 
 --- 
 
 ### Research Interests
-LipReading, Natural Language Processing, Deep Learning
+[LipReading](https://en.wikipedia.org/wiki/Lip_reading), Natural Language Processing, Deep Learning
 
 ---
+
+### LipReading Repos
++ [BasicDemo](https://github.com/LindgeW/DoLipReading)
+
 
 ### NLP Repos
 + [Text Classification](https://github.com/ncuwlz/sentiment-analysis-based-on-attention)
@@ -42,6 +46,7 @@ LipReading, Natural Language Processing, Deep Learning
 
 ---
 
+<!--
 ### Reports
 - [Variant Loss Function to Fix Sample Imbalance](./ideas/variant-loss-function.pdf)
 - [Joint Models for Dependency Parsing: A Survey](./ideas/joint_model.pdf)
@@ -49,6 +54,7 @@ LipReading, Natural Language Processing, Deep Learning
 - [Cross-lingual Overview](./ideas/Cross-lingual.pdf)
 - [A Brief Introduction to Graph Neural Network](./ideas/GNN-report.pdf)
 - [A Survey about GNN Based Sentiment Analysis](./ideas/GNN-survey.pdf)
+-->
 
 ---
 
