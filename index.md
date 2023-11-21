@@ -6,7 +6,7 @@ Contact me: tjuwlz2020@163.com
 
 WeChat Official Account:
 
-<img src='account.jpg' alt='account' width="80">
+<img src='account.jpg' alt='account' width="85">
 
 --- 
 
@@ -54,9 +54,9 @@ WeChat Official Account:
 - [Cross-lingual Overview](./ideas/Cross-lingual.pdf)
 - [A Brief Introduction to Graph Neural Network](./ideas/GNN-report.pdf)
 - [A Survey about GNN Based Sentiment Analysis](./ideas/GNN-survey.pdf)
+---
 -->
 
----
 
 ### Education / Experience
 - 2022/9 -- : University of Electronic Science and Technology of China, PhD
