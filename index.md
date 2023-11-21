@@ -11,7 +11,7 @@ WeChat Official Account:
 --- 
 
 ### Research Interests
-[LipReading](https://en.wikipedia.org/wiki/Lip_reading), Natural Language Processing, Deep Learning
+[LipReading](https://www.lipreading.org/beginners-guide-to-lipreading), Natural Language Processing, Deep Learning
 
 ---
 
