@@ -16,7 +16,7 @@ WeChat Official Account:
 ---
 
 ### LipReading Repos
-+ [BasicDemo](https://github.com/LindgeW/DoLipReading)
++ [VSR](https://github.com/LindgeW/DoLipReading)
 
 
 ### NLP Repos
